@@ -1,0 +1,7 @@
+E:\Vari desktop\VB.net\Programmi 2013\ps2pdfgui\ps2pdf\ps2pdf\bin\Release\PS2PDF-GUI.exe
+E:\Vari desktop\VB.net\Programmi 2013\ps2pdfgui\ps2pdf\ps2pdf\obj\Release\ResolveAssemblyReference.cache
+E:\Vari desktop\VB.net\Programmi 2013\ps2pdfgui\ps2pdf\ps2pdf\obj\Release\ps2pdf.Main.resources
+E:\Vari desktop\VB.net\Programmi 2013\ps2pdfgui\ps2pdf\ps2pdf\obj\Release\ps2pdf.Resources.resources
+E:\Vari desktop\VB.net\Programmi 2013\ps2pdfgui\ps2pdf\ps2pdf\obj\Release\GenerateResource.read.1.tlog
+E:\Vari desktop\VB.net\Programmi 2013\ps2pdfgui\ps2pdf\ps2pdf\obj\Release\GenerateResource.write.1.tlog
+E:\Vari desktop\VB.net\Programmi 2013\ps2pdfgui\ps2pdf\ps2pdf\obj\Release\PS2PDF-GUI.exe
